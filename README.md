@@ -52,17 +52,17 @@ Permite acceder rápidamente a tus carpetas cifradas sin comprometer la segurida
 
 # 💎 Comparativa de Licencias y Descarga
 
+# 💎 Comparativa de Licencias y Descarga
+
 <table>
 <tr>
 <th>Funciones</th>
 <th>Gratis (Trial)</th>
-<th>Suscripción Anual</th>
 <th>Licencia Vitalicia</th>
 </tr>
 
 <tr>
 <td>Creación de bóvedas cifradas</td>
-<td align="center">✅</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
 </tr>
@@ -71,12 +71,10 @@ Permite acceder rápidamente a tus carpetas cifradas sin comprometer la segurida
 <td>Cifrado AES-256-GCM & Argon2id</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
-<td align="center">✅</td>
 </tr>
 
 <tr>
 <td>Autenticación por PIN y Clave Maestra</td>
-<td align="center">✅</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
 </tr>
@@ -85,12 +83,10 @@ Permite acceder rápidamente a tus carpetas cifradas sin comprometer la segurida
 <td>Descifrado temporal en USB</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
-<td align="center">✅</td>
 </tr>
 
 <tr>
 <td>Borrado seguro de datos temporales</td>
-<td align="center">✅</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
 </tr>
@@ -99,12 +95,10 @@ Permite acceder rápidamente a tus carpetas cifradas sin comprometer la segurida
 <td>Respaldo automático de bóvedas</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
-<td align="center">✅</td>
 </tr>
 
 <tr>
 <td>Protección contra expulsión accidental</td>
-<td align="center">✅</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
 </tr>
@@ -113,12 +107,10 @@ Permite acceder rápidamente a tus carpetas cifradas sin comprometer la segurida
 <td>Licencia digital segura</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
-<td align="center">✅</td>
 </tr>
 
 <tr>
 <td>Soporte para carpetas y archivos múltiples</td>
-<td align="center">✅</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
 </tr>
@@ -127,13 +119,11 @@ Permite acceder rápidamente a tus carpetas cifradas sin comprometer la segurida
 <td>Clave de recuperación de emergencia</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
-<td align="center">✅</td>
 </tr>
 
 <tr>
 <td><b>Duración</b></td>
 <td align="center"><b>15 DÍAS</b></td>
-<td align="center"><b>1 AÑO</b></td>
 <td align="center"><b>PARA SIEMPRE</b></td>
 </tr>
 
@@ -146,12 +136,10 @@ Permite acceder rápidamente a tus carpetas cifradas sin comprometer la segurida
 </a>
 </td>
 
-<td colspan="2" align="center">
-
+<td align="center">
 <a href="https://www.escudodigitalsv.com">
 <img src="https://img.shields.io/badge/🛒_COMPRAR_AHORA-escudodigitalsv.com-blue?style=for-the-badge">
 </a>
-
 </td>
 
 </tr>
