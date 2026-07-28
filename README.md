@@ -52,8 +52,6 @@ Permite acceder rápidamente a tus carpetas cifradas sin comprometer la segurida
 
 # 💎 Comparativa de Licencias y Descarga
 
-# 💎 Comparativa de Licencias y Descarga
-
 <table>
 <tr>
 <th>Funciones</th>
