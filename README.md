@@ -12,7 +12,7 @@
 
 <div align="center">
   <h2>📸 Captura de Pantalla</h2>
-  <img src="https://i.servimg.com/u/f34/20/32/08/60/sin_tz22.png" alt="USB Vault Pro Interface" width="600">
+  <img src="https://i.servimg.com/u/f34/20/32/08/60/sin_tz22.png" alt="USB Vault Pro Interface" width="400">
 </div>
 
 ---
