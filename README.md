@@ -287,29 +287,6 @@ Permite acceder rápidamente a tus carpetas cifradas sin comprometer la segurida
 
 ---
 
-# 🚀 Explora el Ecosistema Escudo Digital SV
-
-¿Buscas más soluciones de seguridad? Descubre nuestras demás herramientas y encuentra la que mejor se adapta a tus necesidades:
-
-| Producto                      | Descripción                                                                     |
-| :---------------------------- | :------------------------------------------------------------------------------ |
-| 🔒 **AppLocker Pro**          | Bloqueo, protección y control temporal de aplicaciones para Windows.             |
-| 🌐 **NetBlocker Pro**         | Bloqueo de sitios web y control de acceso a Internet por aplicación.            |
-| 🛡️🌐 **AppLocker Pro Suite** | Solución completa que integra AppLocker Pro y NetBlocker Premium.               |
-
-### 📥 Accesos Directos
-
-* 🔒 **AppLocker Pro**
-  https://github.com/escudodigitalsv/applockerpro
-
-* 🌐 **NetBlocker Premium**
-  https://github.com/escudodigitalsv/netblockerpremium
-
-* 🛡️🌐 **AppLocker Pro Suite**
-  https://github.com/escudodigitalsv/applockerprosuite
-
----
-
 <div align="center">
 
 ## ❤️ USB Vault Pro v1.0.0 © 2026
