@@ -1,4 +1,4 @@
-# <img src="https://i.servimg.com/u/f34/20/32/08/60/protec10.png" width="32" height="32"> USB Vault Pro 1.0.0
+# <img src="https://i.servimg.com/u/f34/20/32/08/60/uvp10.png" width="32" height="32"> USB Vault Pro 1.0.0
 
 > ## 🔒 Protección, Cifrado Avanzado y Portabilidad Segura para Windows 10 & 11
 >
